@@ -1,0 +1,24 @@
+D:\RiderProjects\Gradebook\Gradebook.Domain\bin\Debug\net6.0\Gradebook.Domain.deps.json
+D:\RiderProjects\Gradebook\Gradebook.Domain\bin\Debug\net6.0\Gradebook.Domain.dll
+D:\RiderProjects\Gradebook\Gradebook.Domain\bin\Debug\net6.0\Gradebook.Domain.pdb
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.csproj.AssemblyReference.cache
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.AssemblyInfoInputs.cache
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.AssemblyInfo.cs
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.dll
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\refint\Gradebook.Domain.dll
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.pdb
+D:\RiderProjects\Gradebook\Gradebook.Domain\obj\Debug\net6.0\ref\Gradebook.Domain.dll
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\bin\Debug\net6.0\Gradebook.Domain.deps.json
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\bin\Debug\net6.0\Gradebook.Domain.dll
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\bin\Debug\net6.0\Gradebook.Domain.pdb
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.csproj.AssemblyReference.cache
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.AssemblyInfoInputs.cache
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.AssemblyInfo.cs
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.dll
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\refint\Gradebook.Domain.dll
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\Gradebook.Domain.pdb
+C:\Users\alemo\Desktop\Дипломдық жоба\Gradebook\Gradebook.Domain\obj\Debug\net6.0\ref\Gradebook.Domain.dll
